@@ -8,21 +8,18 @@ Paola Abrantes de Souza Codonhoto, BP304887X
 
 # Plano de releases:
 
-Primeiro Release
+Primeiro Release:
 • Tela de login construída, ao clicar no botão envia mensagem “em construção”.
 • Página de login (index.html).
 • Página de aviso (working.html).
 
-Segundo Release
-• Página de login chamando a página do administrador sem validar se os campos login e senha
-forma preenchidos.
+Segundo Release:
+• Página de login chamando a página do administrador sem validar se os campos login e senha forma preenchidos.
 • Página de login sem consistência (index.html).
 • Página inicial para usuário administrador (pg001.html).
 
-Terceiro Release
-• Funcionamento completo: se deixar usuário em branco (só valida este campo) mostra página de
-erro. Ao digitar “admin” exibe a tela do administrador, qualquer outro conteúdo em usuário
-mostra a página do operador.
+Terceiro Release:
+• Funcionamento completo: se deixar usuário em branco (só valida este campo) mostra página de erro. Ao digitar “admin” exibe a tela do administrador, qualquer outro conteúdo em usuário mostra a página do operador.
 • Página de login com consistência (index.html).
 • Página inicial para usuário administrador (pg001.html).
 • Página inicial para usuário operador (pg002.html).
